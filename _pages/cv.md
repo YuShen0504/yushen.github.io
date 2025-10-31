@@ -23,33 +23,26 @@ Work experience
 ======
 * 2025-2026  Postdoctoral Associate.
   - Nicholas School of the Environment, Duke University, USA
-  - Supervisor: Tong Qiu /https://ecotongqiu.com//
+  - Supervisor: Tong Qiu (https://ecotongqiu.com/)
 * 2024-2025  Postdoctoral Research Associate
   - Geospatial Sciences Center of Excellence (GSCE), South Dakota State University, USA
-
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  - Supervisor: Xiaoyang Zhang (https://www.sdstate.edu/geography-geospatial-sciences/xiaoyang-zhang-lab)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing skill:
+  - Interactive Data Language (IDL)
+  - R
+  - C
+  - Perl
+  - Python
+* HPC cluster
+  - SDSU Innovator cluster
+  - Duke Compute Cluster
+* Software
+  - ENVI
+  - ArcGIS Pro
+  - Google Earth Engine
 
 Publications
 ======
