@@ -46,9 +46,16 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% raw %}{% assign pubs = site.publications | sort: "date" | reverse %}
+  {% assign years = pubs | map: "year" | uniq %}
+  {% for y in years %}
+  ### {{ y }}
+  {% for post in pubs %}
+    {% if post.year == y %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+  {% endfor %}{% endraw %}
   
 Talks
 ======
