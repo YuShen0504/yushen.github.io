@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "paper2_crop_mapping_review.pdf"
 collection: publications
 category: manuscripts
 permalink: /publication/paper2_crop_mapping_review.pdf
